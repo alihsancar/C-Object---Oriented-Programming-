@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ali \u0130hsan Sancar\\Desktop\\C\u002B\u002B OOP\\\u00DC\u00E7gen S\u0131n\u0131f\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{454F29D8-21D4-4951-84CB-F92026883AC3}|\u00DC\u00E7gen S\u0131n\u0131f\\\u00DC\u00E7gen S\u0131n\u0131f.vcxproj|C:\\Users\\Ali \u0130hsan Sancar\\Desktop\\C\u002B\u002B OOP\\\u00DC\u00E7gen S\u0131n\u0131f\\\u00DC\u00E7gen S\u0131n\u0131f\\\u00DC\u00E7gen S\u0131n\u0131f.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{454F29D8-21D4-4951-84CB-F92026883AC3}|\u00DC\u00E7gen S\u0131n\u0131f\\\u00DC\u00E7gen S\u0131n\u0131f.vcxproj|solutionrelative:\u00DC\u00E7gen S\u0131n\u0131f\\\u00DC\u00E7gen S\u0131n\u0131f.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454F29D8-21D4-4951-84CB-F92026883AC3}|\u00DC\u00E7gen S\u0131n\u0131f\\\u00DC\u00E7gen S\u0131n\u0131f.vcxproj|C:\\Users\\Ali \u0130hsan Sancar\\Desktop\\C\u002B\u002B OOP\\\u00DC\u00E7gen S\u0131n\u0131f\\\u00DC\u00E7gen S\u0131n\u0131f\\Triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{454F29D8-21D4-4951-84CB-F92026883AC3}|\u00DC\u00E7gen S\u0131n\u0131f\\\u00DC\u00E7gen S\u0131n\u0131f.vcxproj|solutionrelative:\u00DC\u00E7gen S\u0131n\u0131f\\Triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u00DC\u00E7gen S\u0131n\u0131f.cpp",
+              "DocumentMoniker": "C:\\Users\\Ali \u0130hsan Sancar\\Desktop\\C\u002B\u002B OOP\\\u00DC\u00E7gen S\u0131n\u0131f\\\u00DC\u00E7gen S\u0131n\u0131f\\\u00DC\u00E7gen S\u0131n\u0131f.cpp",
+              "RelativeDocumentMoniker": "\u00DC\u00E7gen S\u0131n\u0131f\\\u00DC\u00E7gen S\u0131n\u0131f.cpp",
+              "ToolTip": "C:\\Users\\Ali \u0130hsan Sancar\\Desktop\\C\u002B\u002B OOP\\\u00DC\u00E7gen S\u0131n\u0131f\\\u00DC\u00E7gen S\u0131n\u0131f\\\u00DC\u00E7gen S\u0131n\u0131f.cpp",
+              "RelativeToolTip": "\u00DC\u00E7gen S\u0131n\u0131f\\\u00DC\u00E7gen S\u0131n\u0131f.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T12:21:07.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangle.h",
+              "DocumentMoniker": "C:\\Users\\Ali \u0130hsan Sancar\\Desktop\\C\u002B\u002B OOP\\\u00DC\u00E7gen S\u0131n\u0131f\\\u00DC\u00E7gen S\u0131n\u0131f\\Triangle.h",
+              "RelativeDocumentMoniker": "\u00DC\u00E7gen S\u0131n\u0131f\\Triangle.h",
+              "ToolTip": "C:\\Users\\Ali \u0130hsan Sancar\\Desktop\\C\u002B\u002B OOP\\\u00DC\u00E7gen S\u0131n\u0131f\\\u00DC\u00E7gen S\u0131n\u0131f\\Triangle.h",
+              "RelativeToolTip": "\u00DC\u00E7gen S\u0131n\u0131f\\Triangle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-19T12:21:06.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
